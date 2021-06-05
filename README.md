@@ -2,6 +2,7 @@
   - 🔭 I'm a student of M.Sc. Computer Science with specialization in Data Analytics.
   - 🌱 I'm currently exploring Machine learning, open source and data science.
   - 💬 Ask me about python and mathematics.
+  - ✨ Check out my portfolio: https://simrankaur-23.github.io/My-Portfolio/
 
 <!--
 **SimranKaur-23/SimranKaur-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
